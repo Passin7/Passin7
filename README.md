@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Passin7
-- 👀 I’m interested in andriod development
+- 👀 I’m interested in android development
 - 🌱 I’m currently learning engineering
 - 💞️ I’m looking to collaborate on java.
 - 📫 How to reach me 
