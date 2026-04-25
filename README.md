@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Passin7
 - 👀 I’m interested in android development
 - 🌱 I’m currently learning engineering
-- 💞️ I’m looking to collaborate on java.
+- 💞️ I’m looking to collaborate on AI/ML.
 - 📫 How to reach me 
 
 <!---
